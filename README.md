@@ -8,12 +8,12 @@ Most often the process involves communication between the application and a data
 
 The good thing is that you can do all this from my dashboards, with zero database knowledge. So I do the heavylifting, you just have to worry about inputing the correct data.
 
-My tech-stack is as follows:
-- Majorly R and R Shiny
+My **tech-stack** is as follows:
+- R and R Shiny
 - Python
 - PostgreSQL
 - LaTex
 
-Currently learning HTML, CSS & JavaScript.
+Currently **learning** HTML, CSS & JavaScript.
 
-Feel free to visit [my site](mwavu.com) to view my portfolio and some of the projects I've worked on. All the code for the projects is in my github repositories.
+Feel free to visit [my website](mwavu.com) to view my portfolio and some of the projects I've worked on. All the code for the projects is in my github repositories.
