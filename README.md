@@ -9,3 +9,5 @@ My tech-stack is as follows:
 - LaTex
 
 Currently learning HTML, CSS & JavaScript.
+
+Feel free to visit [my site](mwavu.com) to view some of the projects I've worked on. All the code for the projects is in my github repositories.
