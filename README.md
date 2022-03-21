@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Hi! I'm Kennedy Mwavu.
 
-You can use the [editor on GitHub](https://github.com/kennedymwavu/kennedymwavu.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### What I Do
+I'm a `self-taught` developer specifically working as an R shiny developer.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I build production grade dashboards using [R Shiny](https://shiny.rstudio.com/) for data analysis and interactive data visualization. 
+Most often the process involves communication between the application and a database:
+- CRUD (Create, Read, Update, Delete) operations
 
-### Markdown
+The good thing is that you can do all this from my dashboards, with zero database knowledge. So I do the heavylifting, you just have to worry about inputing the correct data.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Tech-Stack
+My **tech-stack** is as follows:
+- R and R Shiny
+- Python
+- PostgreSQL
+- LaTex
 
-```markdown
-Syntax highlighted code block
+### Lately
+Currently **learning** HTML, CSS & JavaScript.
 
-# Header 1
-## Header 2
-### Header 3
+### Website
+Visit [mwavu.com](mwavu.com) to view my portfolio and some of the projects I've worked on. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kennedymwavu/kennedymwavu.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+All the code for the projects is in my github repositories.
