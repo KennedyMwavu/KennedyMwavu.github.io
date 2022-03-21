@@ -31,6 +31,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
 	line-height: 1;
+	font-family: 'Quicksand', sans-serif !important;
 }
 
 ol, ul {
@@ -2443,3 +2444,26 @@ input, select, textarea {
 					}
 
 	}
+
+.stuff {
+	text-align: left; 
+	font-size: 150%; 
+	padding: 20px;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.resume_blog {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 20px;
+	padding: 20px;
+	margin-top: 10%;
+    box-shadow: 0 4px 8px 0 rgb(0 0 0 / 20%), 0 6px 20px 0 rgb(0 0 0 / 19%);
+}
+
+.resume_blog > * {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+}
