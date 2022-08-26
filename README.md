@@ -1,1 +1,1 @@
-## Hi! I'm Kennedy Mwavu.
+## I am Kennedy Mwavu.
